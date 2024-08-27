@@ -2,8 +2,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yash-thakre-28ab91265)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/yash9904)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Papers-green)](https://www.researchgate.net/profile/Yash_Thakre)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-brightgreen)](https://orcid.org/0000-0002-7933-5510)
 [![Gmail](https://img.shields.io/badge/Email-yashthakre839@gmail.com-red)](mailto:yashthakre839@gmail.com)
+
 
 ## 👨‍💻 About Me
 
