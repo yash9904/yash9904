@@ -39,7 +39,7 @@ I am a **Machine Learning Engineer** with a strong background in **Deep Learning
 
 ## 📚 Projects & Publications
 
-### OptiLLM: Software Solutions Provider (Jul 2024)
+### OptiLLM: Software Solutions Provider 
 - Developed a FastAPI backend server to communicate with Claude 3 Haiku on AWS Bedrock.
 - Runner-up at Geekle.ai Hackathon with an LLM-powered software architecture drawer.
 
