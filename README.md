@@ -43,6 +43,10 @@ I am a **Machine Learning Engineer** with a strong background in **Deep Learning
 - Developed a FastAPI backend server to communicate with Claude 3 Haiku on AWS Bedrock.
 - Runner-up at Geekle.ai Hackathon with an LLM-powered software architecture drawer.
 
+### Spotify ETL Pipeline with Terraform
+- Developed a CI/CD pipeline for a Spotify ETL process using Terraform, GitHub Actions, and AWS Lambda.
+- The pipeline is triggered weekly using CloudWatch, extracting data from the Spotify Web API and saving it to S3.
+
 ### Research Articles:
 - **Validating Meteosat MSG and Himawari-8 derived solar irradiance**: Published in *MDPI Energies* [Read Here](https://doi.org/10.3390/en17122913)
 - **Reimagining Reality: A Comprehensive Survey of Video Inpainting Techniques**: Published in *Neurocomputing* [Read Here](https://arxiv.org/abs/2401.17883)
