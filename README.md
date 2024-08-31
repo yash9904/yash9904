@@ -44,6 +44,14 @@ I am a **Machine Learning Engineer** with a strong background in **Deep Learning
 
 ---
 
+
+## 📊 GitHub Stats
+
+<img src ="https://github-readme-stats.vercel.app/api?username=yash9904&theme=darcula&hide_border=false&include_all_commits=true&count_private=true"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash9904&theme=darcula&hide_border=false"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash9904&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+
+
+---
+
 ## 📚 Projects & Publications
 
 ### OptiLLM: Software Solutions Provider 
