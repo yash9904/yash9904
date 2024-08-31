@@ -39,7 +39,7 @@ I am a **Machine Learning Engineer** with a strong background in **Deep Learning
 ### Concepts:
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=deeplearningai&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0071C5?style=for-the-badge&logo=opencv&logoColor=white)
-![Predictive Modelling](https://img.shields.io/badge/Predictive%20Modelling-0A66C2?style=for-the-badge&logo=dataiku&logoColor=white)
+![Predictive Modelling](https://img.shields.io/badge/Predictive%20Modelling-0A66C2?style=for-the-badge&logoColor=white)
 ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-FF4D5B?style=for-the-badge&logo=r&logoColor=white)
 
 ---
