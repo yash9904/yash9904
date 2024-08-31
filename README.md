@@ -54,6 +54,12 @@ I am a **Machine Learning Engineer** with a strong background in **Deep Learning
 
 ## 📚 Projects & Publications
 
+### WatsMyTax: AI-Powered Tax Optimization Advisor 
+- Developed an AI-driven tool that provides personalized tax-saving strategies.
+- Leveraged WatsonxLLM, LangChain, and Streamlit for real-time strategy generation.
+- Created a user-friendly interface to enhance financial decision-making.
+- [Project Page on lablab.ai](https://lablab.ai/event/ibm-watsonx-challenge/watsai/watsmytax?review=true)
+
 ### OptiLLM: Software Solutions Provider 
 - Developed a FastAPI backend server to communicate with Claude 3 Haiku on AWS Bedrock.
 - Runner-up at Geekle.ai Hackathon with an LLM-powered software architecture drawer.
